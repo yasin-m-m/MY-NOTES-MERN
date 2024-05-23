@@ -1,0 +1,52 @@
+[ 
+  { 
+    "id": 1, 
+    "title": "Meeting Notes", 
+    "description": "Summary of the meeting with team members. Discussed project updates and timelines. Decisions made on next steps." 
+  }, 
+  { 
+    "id": 2, 
+    "title": "Recipe Ideas", 
+    "description": "Gathered new recipes for the upcoming dinner party. Excited to try out the new pasta dish and dessert recipes." 
+  }, 
+  { 
+    "id": 3, 
+    "title": "Fitness Goals", 
+    "description": "Outlined fitness goals for the month. Planning to increase workout frequency and incorporate more strength training." 
+  }, 
+  { 
+    "id": 4, 
+    "title": "Travel Plans", 
+    "description": "Planning a trip to the mountains for a weekend getaway. Looking forward to hiking and enjoying the scenic views." 
+  }, 
+  { 
+    "id": 5, 
+    "title": "Book Recommendations", 
+    "description": "Received book recommendations from friends. Adding them to the reading list for the next month." 
+  }, 
+  { 
+    "id": 6, 
+    "title": "Project Updates", 
+    "description": "Updated progress report for the ongoing project. Noted achievements and challenges faced during implementation." 
+  }, 
+  { 
+    "id": 7, 
+    "title": "Home Renovation Ideas", 
+    "description": "Brainstormed ideas for home renovation. Considering new paint colors and furniture arrangements for the living room." 
+  }, 
+  { 
+    "id": 8, 
+    "title": "Gardening Plans", 
+    "description": "Planning the spring garden layout. Selecting new plants and flowers to enhance the garden's beauty." 
+  }, 
+  { 
+    "id": 9, 
+    "title": "Movie Night Choices", 
+    "description": "Compiled a list of must-watch movies for the weekend movie night. Popcorn and cozy blankets are ready!" 
+  }, 
+  { 
+    "id": 10, 
+    "title": "Workout Routine", 
+    "description": "Created a new workout routine focusing on cardio and core exercises. Setting fitness goals for the upcoming month." 
+  } 
+] 
